@@ -1,4 +1,3 @@
-# neural-networks-applications
 # Neural Networks: Machine Learning Applications
 
 ## About the Project
